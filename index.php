@@ -1,7 +1,6 @@
 <?php
 session_start();
 
-// get api key from config.env file
 $apiKey = "6bc960c3834a3c720dc085628f3384a9";
 $deeplApiKey = "f02ed4e5-4a48-ad6d-9887-9dd91580e4bd:fx";
 $ninjasApiKey = "I80URu9NCRQLJ7+pjYzFPg==dk3cYIXElJNyv1mV";
